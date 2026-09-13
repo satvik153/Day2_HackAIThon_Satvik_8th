@@ -1,22 +1,28 @@
-# Day2_HackAIThon_Satvik_8th
-# 🐍 My Python Project
+# 📚 StudyTrack
 
-## 📌 Project Overview
+A simple Python-based study progress tracker that helps students organize subjects, track completed chapters, and monitor their study progress.
 
-### ✨ Features
+## ✨ Features
 
-#### 🎯 Feature 1
+- 📖 Add and manage subjects
+- ✅ Mark chapters as completed
+- 📊 Track overall progress
+- ⏱️ Record study time
+- 💾 Save progress locally
+- 🖥️ Simple and beginner-friendly interface
 
-This is normal paragraph text.
+## 🛠️ Technologies Used
 
-##### 🛠️ Technologies Used
+- Python 3
+- Tkinter
+- JSON
 
-- Python
-- OpenCV
-- NumPy
+## 📂 Project Structure
 
-###### 👨‍💻 Team Members
-
-- Rahul
-- Ananya
-- Arjun
+```text
+StudyTrack/
+│
+├── main.py
+├── data.json
+├── README.md
+└── requirements.txt
